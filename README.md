@@ -1,9 +1,10 @@
 # Awesome AI tools to summarize Youtube Videos
 
-A curated list of awesome softwares to summarize Youtube Videos. Please add your tool at the bottom of the list.
+A curated list of awesome softwares to summarize Youtube Videos. 
+You may add more AI tools that summarizes youtube videos at the bottom of the list.
   
 ## Youtube Summarizer Tools List
-* [**SummaryTube**](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo) - [Summarize Youtube Video](https://summarytube.com) for free using powerful AI models with chrome extension easily. Get key insights, key moments analysis, Q&A's, analyse top comments from youtube videos.
+* [**SummaryTube**](https://chromewebstore.google.com/detail/summarytube-youtube-video/niofdfdkibigolggppebcpegalegdjfe) - SummaryTube helps you [summarize youtube video](https://summarytube.com) for FREE using powerful AI models with chrome extension. Get key insights, extract key moments, Q&A's from youtube videos.
 * **Eightify**: Eightify uses advanced AI to provide concise summaries of YouTube videos, helping users quickly extract key information and insights from any video.
 * **Summify**: Summify.io is a free, AI-powered YouTube video summary generator that presents video insights in seconds, streamlining content consumption and learning.
 * **Galaxy AI YouTube Summarizer**: Galaxy AI offers an easy way to summarize YouTube videos with AI, extracting key moments and delivering fast overviews.
